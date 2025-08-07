@@ -1,0 +1,11 @@
+# Go build files
+/bin/
+/*.exe
+/*.out
+/*.test
+
+# IDE/editor junk
+*.swp
+*.DS_Store
+.idea/
+.vscode/
